@@ -1,1 +1,16 @@
 body { margin: 0 }
+
+header nav ul {
+  background-color: lightcyan;
+  display: flex;
+  justify-content: space-around;
+  height: 45px;
+}
+
+header nav li {
+  list-style: none;
+}
+
+header nav li a {
+  color: #000;
+}
